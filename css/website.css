@@ -1,0 +1,25 @@
+h1{
+  color: blue;
+  text-decoration: underline;
+  text-align: center;
+}
+
+body{
+  background-color: #A7E3EB
+}
+
+
+
+html{
+  font-family: system-ui
+}
+
+p{
+  border-style: solid;
+  border-color: red;
+}
+h2{text-decoration: underline;}
+
+h1{margin-top: 7%;
+  text-decoration: underline;
+}

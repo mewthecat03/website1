@@ -1,0 +1,17 @@
+
+h1{margin-top: 7%;
+  text-decoration: underline;
+}
+
+h2{text-decoration: underline;}
+
+footer{background-color: midnightBlue;
+margin-top:5%}
+body{
+  background-color: #A7E3EB
+}
+html{
+  font-family: system-ui
+}
+form{
+  text-align: center;}
